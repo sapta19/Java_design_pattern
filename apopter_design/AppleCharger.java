@@ -1,4 +1,4 @@
 
 public interface AppleCharger {
-    void chargePhone();
+    void charge();
 }
