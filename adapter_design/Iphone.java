@@ -1,3 +1,4 @@
+package adapter_design;
 public class Iphone {
     AppleCharger applecharger;
     public Iphone(AppleCharger applecharger){
