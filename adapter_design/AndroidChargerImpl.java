@@ -1,3 +1,4 @@
+package adapter_design;
 public class AndroidChargerImpl implements AndroidCharger {
     @Override
     public void charge() {

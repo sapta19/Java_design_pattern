@@ -1,3 +1,4 @@
+package adapter_design;
 public class Adapter implements AppleCharger{
     AndroidCharger androidCharger;
 

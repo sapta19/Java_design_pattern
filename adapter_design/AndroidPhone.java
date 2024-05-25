@@ -1,3 +1,4 @@
+package adapter_design;
 public class AndroidPhone {
     private AndroidCharger androidCharger;
     public AndroidPhone(AndroidCharger androidCharger){
